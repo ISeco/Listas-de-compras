@@ -26,3 +26,26 @@ Lista para choripanes
 10. Sal
 11. Pimienta
 12. Vino blanco Cartoné
+12. Carbón
+13. Chorizo
+14. Marraqueta
+15. Mayonesa
+16. Hielo
+17. Papas Fritas
+18. Jugos
+
+---------- LISTA DE PC GAMER
+1. Procesador: Intel Core i9-11900K o AMD Ryzen 9 5900X
+2. Tarjeta gráfica: NVIDIA GeForce RTX 3080 o AMD Radeon RX 6900 XT
+3. Placa base: ASUS ROG Strix Z590-E Gaming o MSI MPG X570 Gaming Pro Carbon WiFi
+4. Memoria RAM: Corsair Vengeance RGB Pro 32GB (4x8GB) DDR4 3600MHz
+5. Almacenamiento: SSD NVMe M.2 de alta capacidad, como el Samsung 980 Pro 1TB o el Western Digital Black SN850 1TB
+6. Disco duro adicional: HDD de 2TB, como el Seagate Barracuda 2TB
+7. Fuente de alimentación: Corsair RM850x 850W 80+ Gold Modular
+8. Refrigeración líquida para el procesador: Corsair iCUE H150i Elite Capellix
+9. Gabinete: NZXT H710i o Corsair Crystal Series 680X RGB
+10. Monitor: ASUS ROG Swift PG279Q 27" 1440p 165Hz G-Sync o LG UltraGear 27GN950-B 27" 4K 144Hz Nano IPS
+11. Teclado: Logitech G915 Lightspeed o Razer Huntsman Elite
+12. Ratón: Logitech G Pro Wireless o Razer DeathAdder V2 Pro
+13. Auriculares: SteelSeries Arctis Pro Wireless o HyperX Cloud Flight S
+14. Altavoces: Logitech Z623 o Creative Pebble V3
