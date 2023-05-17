@@ -9,6 +9,23 @@
 9. Lasaña
 10. Ketchup
 11. Cerveza
+12. Papas Fritas
+13. Jugos
+
+Lista para choripanes
+
+1. Marraquetas
+2. Longanizas
+3. Mayonesa
+4. Tomates
+5. Cebolla
+6. Cilantro
+7. Ajo
+8. Perejil
+9. Merken
+10. Sal
+11. Pimienta
+12. Vino blanco Cartoné
 12. Carbón
 13. Chorizo
 14. Marraqueta
@@ -32,4 +49,3 @@
 12. Ratón: Logitech G Pro Wireless o Razer DeathAdder V2 Pro
 13. Auriculares: SteelSeries Arctis Pro Wireless o HyperX Cloud Flight S
 14. Altavoces: Logitech Z623 o Creative Pebble V3
-
