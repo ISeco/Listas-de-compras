@@ -1,0 +1,8 @@
+1. Pan
+2. Fideos
+3. Arroz
+4. Carne
+5. Pollo
+6. Atún
+7. Avena
+8. Huevo
