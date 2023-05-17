@@ -1,3 +1,17 @@
+1. Pan
+2. Fideos
+3. Arroz
+4. Carne
+5. Pollo
+6. Atún
+7. Avena
+8. Huevo
+9. Lasaña
+10. Ketchup
+11. Cerveza
+12. Papas Fritas
+13. Jugos
+
 Lista para choripanes
 
 1. Marraquetas
